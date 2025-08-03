@@ -44,11 +44,15 @@ val developer = Developer(
 ## 📊 Contribution Timeline
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohyme&theme=minimal&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/Rohyme" alt="Rohyme's Github Contribution Chart" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohyme&theme=default" alt="Profile Details" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohyme&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohyme&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </p>
 
 ## 🍵 Tea Break Philosophy
