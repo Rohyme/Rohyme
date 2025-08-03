@@ -41,6 +41,16 @@ val developer = Developer(
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohyme&layout=compact&theme=default&hide_border=true&langs_count=6&hide=html,css" />
 </p>
 
+## 📊 Contribution Timeline
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohyme&theme=minimal&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohyme&theme=default" alt="Profile Details" />
+</p>
+
 ## 🍵 Tea Break Philosophy
 
 ```kotlin
