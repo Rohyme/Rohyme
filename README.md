@@ -1,79 +1,41 @@
-# Hey there, I'm Rohyme ☕
+<div align="center">
 
-> "A programmer is just a tool which converts caffeine into code"  
-> *...but in my case, it's tea* 🍵
+## `rohyme ~ %`
 
-## 👨‍💻 About Me
+</div>
 
-I craft elegant mobile experiences and developer tools, powered by an unhealthy amount of tea.
+```shell
+rohyme ~ % whoami
+Mohamed Rohyme — Android Tech Lead @ 4Sale · Cairo, Egypt
 
-```kotlin
-val developer = Developer(
-    languages = listOf("Kotlin", "Java", "TypeScript", "Go"),
-    currentFocus = "Android Development",
-    teaCupsPerDay = Int.MAX_VALUE
-)
+rohyme ~ % echo $PHILOSOPHY
+"I care about the unglamorous things that make apps great:
+ architecture that scales, code that reads clearly, and
+ releases that don't wake anyone up at night."
+
+rohyme ~ % cat stack.txt
+leadership     Technical Direction & Roadmaps · Team Leadership & Mentoring · Code Review Culture
+architecture   Clean Architecture · Modularization · Server-Driven UI · MVVM · MVI · SOLID
+ai-driven      Orchestrating AI coding agents (planning, delegation, guardrails)
+languages      Kotlin (expert) · Java · Coroutines & Flows · RxJava · Structured Concurrency
+
+rohyme ~ % what about android?
+ui & nav       Jetpack Compose · Material Design 3 · Single-Activity Navigation & Deep Links
+platform       Jetpack (Lifecycle, WorkManager, DataStore, Paging) · Hilt · Koin · Gradle Catalogs
+quality        Testing Strategy · Startup Optimization · Profiling · Crashlytics · Sentry
+
+rohyme ~ % ls ~/projects
+ls: projects: Permission denied — confidential
+# several products in private development. what I can share is the stack:
+# Kotlin Multiplatform · Compose · Ktor · PostgreSQL · Next.js · TypeScript · Go · LLM pipelines
+
+rohyme ~ % cat links.txt
+▸ eng.mhmd.rohyme@gmail.com
+▸ x.com/r0hyme
 ```
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Mobile Development
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+**[▶ run the interactive session → rohyme.github.io](https://rohyme.github.io)**
 
-### Tools & Frameworks
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🎯 What I'm Up To
-
-- 🔨 Building developer tools that make Git workflows smoother
-- 📱 Crafting Android applications with modern architecture
-- 🫖 Experimenting with the perfect tea-to-code ratio
-- 🚀 Contributing to open source when properly caffeinated
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohyme&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohyme&layout=compact&theme=default&hide_border=true&langs_count=6&hide=html,css" />
-</p>
-
-## 📊 Contribution Timeline
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Rohyme" alt="Rohyme's Github Contribution Chart" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohyme&theme=default&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohyme&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
-</p>
-
-## 🍵 Tea Break Philosophy
-
-```kotlin
-while (coding) {
-    if (bug.isFound()) {
-        tea.drink()
-        solution = think()
-    }
-}
-```
-
-> "Tea is the elixir of life... and debugging" - Every developer, probably
-
----
-
-<p align="center">
-  <i>Currently brewing something interesting...</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohyme&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+</div>
