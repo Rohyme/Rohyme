@@ -38,4 +38,6 @@ rohyme ~ % cat links.txt
 
 **[▶ run the interactive session → rohyme.github.io](https://rohyme.github.io)**
 
+<sub>`# several products in stealth — watch this space`</sub>
+
 </div>
